@@ -24,3 +24,4 @@ xarray==2025.3.1
 openpyxl==3.1.2
 geopandas==0.13.2
 s3fs==2026.1.0
+imageio==2.37.3
